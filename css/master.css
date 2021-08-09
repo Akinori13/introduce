@@ -106,7 +106,7 @@ header h1 {
 }
 
 .photo4 {
-  background-image: url('../images/photos/photo4.JPEG');
+  background-image: url('https://github.com/Akinori13/introduce/images/photos/photo4.JPEG');
   background-size: cover;
   grid-column-start: 3;
   grid-column-end: 5;
@@ -115,7 +115,7 @@ header h1 {
 }
 
 .photo5 {
-  background-image: url('../images/photos/photo5.JPG');
+  background-image: url('https://github.com/Akinori13/introduce/images/photos/photo5.JPG');
   background-size: cover;
   grid-column-start: 5;
   grid-column-end: 7;
