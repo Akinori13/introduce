@@ -21,7 +21,7 @@ p {
 }
 
 header {
-  background-image: url('/images/hero.JPG');
+  background-image: url('../images/hero.JPG');
   background-size: cover;
   height: 50vh;
   color: white;
@@ -79,7 +79,7 @@ header h1 {
 }
 
 .photo1 {
-  background-image: url('/images/photos/photo1.JPG');
+  background-image: url('../images/photos/photo1.JPG');
   background-size: cover;
   grid-column-start: 1;
   grid-column-end: 4;
@@ -88,7 +88,7 @@ header h1 {
 }
 
 .photo2 {
-  background-image: url('/images/photos/photo2.JPG');
+  background-image: url('../images/photos/photo2.JPG');
   background-size: cover;
   grid-column-start: 4;
   grid-column-end: 8;
@@ -97,7 +97,7 @@ header h1 {
 }
 
 .photo3 {
-  background-image: url('/images/photos/photo3.JPG');
+  background-image: url('../images/photos/photo3.JPG');
   background-size: cover;
   grid-column-start: 1;
   grid-column-end: 3;
@@ -106,7 +106,7 @@ header h1 {
 }
 
 .photo4 {
-  background-image: url('/images/photos/photo4.JPEG');
+  background-image: url('../images/photos/photo4.JPEG');
   background-size: cover;
   grid-column-start: 3;
   grid-column-end: 5;
@@ -115,7 +115,7 @@ header h1 {
 }
 
 .photo5 {
-  background-image: url('/images/photos/photo5.JPG');
+  background-image: url('../images/photos/photo5.JPG');
   background-size: cover;
   grid-column-start: 5;
   grid-column-end: 7;
