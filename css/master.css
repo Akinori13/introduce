@@ -78,6 +78,19 @@ header h1 {
   grid-template-rows: repeat(3, 1fr);
 }
 
+@media screen and (min-width:768px) {
+  .photos {
+    background-color: white;
+    padding: 2rem;
+  }
+  .photosWrapper {
+    background-color: white;
+    height: 70vh;
+    max-width: 768px;
+    margin: auto;
+  }
+}
+
 .photo1 {
   background-image: url('https://akinori13.github.io/introduce/images/photos/photo1.jpg');
   background-size: cover;
